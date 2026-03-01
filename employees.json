@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Alex",
+        "age": 31,
+        "lang": "python",
+        "salary": 3000,
+        "active": true
+    },
+    {
+        "name": "Masha",
+        "age": 25,
+        "lang": "python",
+        "salary": 3500,
+        "active": false
+    },
+    {
+        "name": "Ivan",
+        "age": 20,
+        "lang": "js",
+        "salary": 1500,
+        "active": true
+    }
+]
